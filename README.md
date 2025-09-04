@@ -1,3 +1,5 @@
+![Project Banner](visualizations/cover.png)
+
 #  Heart Disease Risk Analysis (EDA Project)
 
 ##  Project Overview
